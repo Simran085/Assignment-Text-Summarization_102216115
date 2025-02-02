@@ -1,6 +1,6 @@
 # **TOPSIS Analysis of Pre-Trained Text Summarization Models 📝📊**
 
-This repository analyzes various** text summarization** models using the **TOPSIS **method. Models evaluated include BART, PEGASUS, T5, LongT5, mT5, and LED. The analysis compares them based on ROUGE Score, Summary Length, and Inference Time.
+This repository analyzes various **text summarization** models using the **TOPSIS** method. Models evaluated include BART, PEGASUS, T5, LongT5, mT5, and LED. The analysis compares them based on ROUGE Score, Summary Length, and Inference Time.
 
 ## **Project Overview 🚀**
 This project ranks text summarization models based on ROUGE Score, Summary Length, and Inference Time using the TOPSIS method.
